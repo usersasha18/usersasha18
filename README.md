@@ -11,6 +11,10 @@ I am currently studying web development in college. I have been developing for a
 
 ### Skills 
 <p align="left">
-ICON ICON ICON ICON ICON 
+JavaScript
+PHP
+HTML5
+CSS3
+React 
                     </p>
                     
