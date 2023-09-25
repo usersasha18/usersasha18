@@ -10,7 +10,7 @@ I am currently studying web development in college. I have been developing for a
 *   🧠  I'm learning react, next js, node js
 
 ### Skills 
-<p align="left" color='red>
+<p align="left" color='red'>
 JavaScript
 HTML5
 CSS3
