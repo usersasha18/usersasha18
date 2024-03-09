@@ -1,13 +1,20 @@
 Александр Феофанов
 =========================================================================================================================================
-### Frontend skills
+### Базовые навыки
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,webpack,npm" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
 
-### Инструменты
+### Технологии
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,git,vite,webpack" />
+  </a>
+</p>
+
+### Прочие инструменты 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=notion,figma,vscode,ps" />
