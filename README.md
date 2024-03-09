@@ -7,12 +7,9 @@ Frontend developer
 программист самоучка
 
 ### Skills 
-<p align="left" style="color: red" >
-JavaScript
-HTML5
-CSS3
-React
-Figma
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
+  </a>
 </p>
-
                     
